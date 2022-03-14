@@ -2,7 +2,7 @@
 
 Proyecto inicial para crear aplicaciones utilizando WebPack
 
-###Notas:
+### Notas:
 
 Recuerden recontruir los modulos de Node
 ```
